@@ -2,7 +2,7 @@
 Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Servidor WildFly versión 127.001
 
 
-<h3>Realizar un formulario para registrar un Usuario con boostrapp y Estilos</h3> 
+<h3>Formulario</h3> 
 
 
 
