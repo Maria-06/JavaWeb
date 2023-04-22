@@ -1,5 +1,5 @@
 # JavaWeb
-Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Servidor WildFly versión 127.001
+Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Servidor WildFly versión 127.001, la herramienta de desarrollo (jdk)17.
 
 
 <h3>Formulario</h3> 
