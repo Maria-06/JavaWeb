@@ -1,5 +1,6 @@
 # JavaWeb
-Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Servidor WildFly versión 127.001 y la herramienta de desarrollo (jdk)eclipse temurion versión 17.
+Creación del Proyecto con el IDE intellij en su ultima versión, mediante el Servidor WildFly versión 127.001 y la herramienta de desarrollo (jdk) 
+eclipse temurion versión 17.
 
 
 <h3>Formulario</h3> 
